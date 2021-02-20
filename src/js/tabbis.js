@@ -1,0 +1,3 @@
+tabbis({
+    memory: true
+});
