@@ -5,7 +5,7 @@ A simple gallery that's compatible with Youtube and Vimeo
 * HTML5
 * CSS3
 * JavaScript
-* NodeJs
+* NodeJS
 
 ---------------------------------------
 ```
